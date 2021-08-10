@@ -15,5 +15,10 @@ window.addEventListener("load",
                 <li><a href="testlink.html">Test</a></li>
             </ul>
         `;
+
+
+        document.getElementById("footer").innerHTML = `
+            2021 DFT Software
+        `;
     }
 );
